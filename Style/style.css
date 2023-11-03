@@ -1,0 +1,52 @@
+.navBG{
+    width: 1920px;
+    height: 120px;
+    
+}
+
+.header {
+    background-image: url(../Images/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+}
+
+.navColor{
+    background-color: #000324;
+}
+
+.seeThru{
+    background-color: rgb(0, 3, 36, 0.8);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-position: center;
+}
+
+.lgText{
+    color: white;
+}
+
+.headTxt{
+    color: white;
+}
+
+.blkTxt{
+    color: black;
+}
+
+.whtTxt{
+    color: white;
+}
+
+.rmheader {
+    background-image: url(../Images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 550px;
+}
+
